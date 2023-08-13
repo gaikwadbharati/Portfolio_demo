@@ -1554,7 +1554,7 @@ h4 {
 
 .contact {
     /* position: relative; */
-    background: url(/images/p4.jpg) no-repeat;
+    background: url(images/p4.jpg) no-repeat;
     background-position: center;
     background-size: cover;
     height: 800px;
